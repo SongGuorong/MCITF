@@ -1,0 +1,42 @@
+simpleMKL
+
+Malloc list:
+
+sub_prob
+sub_prob.x
+sub_prob.y
+sub_prob.sigma
+sub_prob.y_set
+sub_prob.alpha
+
+decision_function f
+
+free(f)
+
+
+while(loop==1 && maxloop > 0 && n_kernel > 1)
+
+sigma_new
+desc
+
+if(flag == 1)
+	tmp_sigma
+	tmp_alph
+
+ while(costmax < costmin)
+
+	decision_function f
+
+	free(f)
+
+ end while(costmax < costmin)
+
+	step
+	cost
+	tmp_sigma_1
+	tmp_alpha_1
+
+end if(flag == 1)
+
+
+end while(loop==1 && maxloop > 0 && n_kernel > 1)
